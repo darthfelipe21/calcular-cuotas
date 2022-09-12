@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Oswald", sans-serif;
+}
+
+.section1 {
+  background-image: url(./imagenes/credit-card.jpg);
+  background-size: cover;
+  height: 50vw;
+  padding-top: 100px;
+}
+.section1 h1 {
+  display: grid;
+  justify-content: center;
+  margin: auto;
+  width: 50%;
+  height: 50%;
+  font-size: 40px;
+  text-align: center;
+  color: #35322F;
+  background-color: rgba(243, 237, 237, 0.423);
+  margin-bottom: 50px;
+}
+
+.instructions {
+  margin-bottom: 30px;
+}
+.instructions p, .instructions li {
+  font-size: 25px;
+  color: #ffffff;
+  display: grid;
+  justify-content: center;
+  margin: auto;
+  width: 50%;
+  height: 50%;
+  background-color: rgba(25, 23, 23, 0.596);
+  padding: 10px;
+}
+
+/* .button, a{
+    background-color: #35322F;
+    color: #ffffff;
+    margin: auto;
+    text-align: center;
+    width: 10%;
+    height: 5%;
+    text-decoration: none;
+    padding-top: 3px;
+    :hover{
+        color: #35322F;
+        background-color: #ffffff;
+        padding: 3px 30px 7px 20px;
+    }
+} */
+
+/*# sourceMappingURL=estilos.css.map */
